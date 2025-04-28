@@ -1,0 +1,6 @@
+Origin: arm64 pro
+Label: arm64 pro
+Suite: stable
+Version: 1.0
+Architectures: iphoneos-arm iphoneos-arm64 iphoneos-arm64e
+Components: main
