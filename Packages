@@ -1148,18 +1148,16 @@ Maintainer: Nebula <tweak-support@itsnebula.net>
 Installed-Size: 394
 Depends: mobilesubstrate (>= 0.9.5000), preferenceloader, ws.hbang.common (>= 1.17), firmware (>= 13.0)
 Filename: ./debs/me.nebula.ding_1.1.0_iphoneos-arm64.deb
-Size: 25556
-MD5sum: f317a7c076b865eb5e05d43ab9e49dac
-SHA1: 5d387d8e9f0269e857373a42de9d89e0e8759de7
-SHA256: 1d1b4e1cf339ea6bcc7124d366f7b8d2bc7433379793d6b13f9a36f481e387f3
-SHA512: ab342ae43b2fb57db6595649b66995cd0f1f08ac278ff5b4f483f13e52c363fa3a102ef14ac29c6ece3a72e374e439846d0531b6adec8884f38e831caed7d2d1
+Size: 25476
+MD5sum: 212f8d46aef652365f05735fa5168752
+SHA1: 8ceb39851039364062b2bd415f4321719ac4e321
+SHA256: c1ddd731cce77011f75f47a1d4a99556fa2fbf299a4051f5c69aea4e84d391e0
+SHA512: d34a4d99cd6e9233a435b7247ea1d995cc815f213647ddc3fdf3c50bf7f276fa5c611889b9d36c7feaf3d3ef790275ffe71ae691c900a80604cce3204d10602f
 Description: Take control of your ringer switch!
-Tag: cydia::commercial, compatible_min::ios13.0
 Author: Nebula <tweak-support@itsnebula.net>
 Name: Ding
 Icon: https://img.chariz.cloud/icon/ding/icon@3x.png
-SileoDepiction: https://chariz.com/api/sileo/package/me.nebula.ding/depiction.jsonx
-Header: https://cdn.chariz.cloud/sileo-banner/ding.jpg
+SileoDepiction: https://chariz.com/api/sileo/package/me.nebula.ding/depiction.json
 
 Package: me.nebula.ding
 Architecture: iphoneos-arm64e
@@ -1170,18 +1168,16 @@ Installed-Size: 394
 Pre-Depends: rootless-compat(>= 0.9)
 Depends: mobilesubstrate (>= 0.9.5000), preferenceloader, ws.hbang.common (>= 1.17), firmware (>= 13.0)
 Filename: ./debs/me.nebula.ding_1.1.0_iphoneos-arm64e.deb
-Size: 30490
-MD5sum: 81cfbae37fa4a29e11d9fe8685ff365e
-SHA1: 14f7a640a14e776afd8f1f4c3157fb8784638310
-SHA256: e9f3ce18dc78dcd1eb6d6c5e4d0c2523478d5f0a9b5d7bb103e4f2f8ee2bc758
-SHA512: d600adbc1742b13b5780e23aeafc6ba5956ffd08a13816c0e77dca70cc2ea3b044dbb4791c1ff5f687bb27df163a919297f96117949f737a7f818702fbb701f4
+Size: 25392
+MD5sum: 1c1f5d21d5a03ce668ae838ee4b002ff
+SHA1: edc120dae1a945a56ca43fb9941b204aef01bd8c
+SHA256: ec88a94c476e7aff52e11979e101ac0e559504fd544dbd68f9db5e4eedfbc594
+SHA512: 374491e184536fa3262d9ed53cf3887f63ffde933fcdee84d2aa2be12976b953c5e99555318feaf8459745a05160881dca6cf1ee02d4268e4008dd566d85ba5b
 Description: Take control of your ringer switch!
-Tag: cydia::commercial, compatible_min::ios13.0
 Author: Nebula <tweak-support@itsnebula.net>
 Name: Ding
 Icon: https://img.chariz.cloud/icon/ding/icon@3x.png
-SileoDepiction: https://chariz.com/api/sileo/package/me.nebula.ding/depiction.jsonx
-Header: https://cdn.chariz.cloud/sileo-banner/ding.jpg
+SileoDepiction: https://chariz.com/api/sileo/package/me.nebula.ding/depiction.json
 
 Package: xyz.cypwn.bigshotsnapper3plugin
 Architecture: iphoneos-arm64e
