@@ -1140,6 +1140,49 @@ Name: unlock apps
 Author: adry
 Icon: https://i.imgur.com/m2Bn0u4.jpeg
 
+Package: me.nebula.ding
+Architecture: iphoneos-arm64
+Version: 1.1.0
+Section: Tweaks
+Maintainer: Nebula <tweak-support@itsnebula.net>
+Installed-Size: 394
+Depends: mobilesubstrate (>= 0.9.5000), preferenceloader, ws.hbang.common (>= 1.17), firmware (>= 13.0)
+Filename: ./debs/me.nebula.ding_1.1.0_iphoneos-arm64.deb
+Size: 25556
+MD5sum: f317a7c076b865eb5e05d43ab9e49dac
+SHA1: 5d387d8e9f0269e857373a42de9d89e0e8759de7
+SHA256: 1d1b4e1cf339ea6bcc7124d366f7b8d2bc7433379793d6b13f9a36f481e387f3
+SHA512: ab342ae43b2fb57db6595649b66995cd0f1f08ac278ff5b4f483f13e52c363fa3a102ef14ac29c6ece3a72e374e439846d0531b6adec8884f38e831caed7d2d1
+Description: Take control of your ringer switch!
+Tag: cydia::commercial, compatible_min::ios13.0
+Author: Nebula <tweak-support@itsnebula.net>
+Name: Ding
+Icon: https://img.chariz.cloud/icon/ding/icon@3x.png
+SileoDepiction: https://chariz.com/api/sileo/package/me.nebula.ding/depiction.json
+Header: https://cdn.chariz.cloud/sileo-banner/ding.jpg
+
+Package: me.nebula.ding
+Architecture: iphoneos-arm64e
+Version: 1.1.0
+Section: Tweaks
+Maintainer: Nebula <tweak-support@itsnebula.net>
+Installed-Size: 394
+Pre-Depends: rootless-compat(>= 0.9)
+Depends: mobilesubstrate (>= 0.9.5000), preferenceloader, ws.hbang.common (>= 1.17), firmware (>= 13.0)
+Filename: ./debs/me.nebula.ding_1.1.0_iphoneos-arm64e.deb
+Size: 30490
+MD5sum: 81cfbae37fa4a29e11d9fe8685ff365e
+SHA1: 14f7a640a14e776afd8f1f4c3157fb8784638310
+SHA256: e9f3ce18dc78dcd1eb6d6c5e4d0c2523478d5f0a9b5d7bb103e4f2f8ee2bc758
+SHA512: d600adbc1742b13b5780e23aeafc6ba5956ffd08a13816c0e77dca70cc2ea3b044dbb4791c1ff5f687bb27df163a919297f96117949f737a7f818702fbb701f4
+Description: Take control of your ringer switch!
+Tag: cydia::commercial, compatible_min::ios13.0
+Author: Nebula <tweak-support@itsnebula.net>
+Name: Ding
+Icon: https://img.chariz.cloud/icon/ding/icon@3x.png
+SileoDepiction: https://chariz.com/api/sileo/package/me.nebula.ding/depiction.json
+Header: https://cdn.chariz.cloud/sileo-banner/ding.jpg
+
 Package: xyz.cypwn.bigshotsnapper3plugin
 Architecture: iphoneos-arm64e
 Version: 1.1
