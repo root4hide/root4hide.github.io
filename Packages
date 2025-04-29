@@ -1158,7 +1158,7 @@ Tag: cydia::commercial, compatible_min::ios13.0
 Author: Nebula <tweak-support@itsnebula.net>
 Name: Ding
 Icon: https://img.chariz.cloud/icon/ding/icon@3x.png
-SileoDepiction: https://chariz.com/api/sileo/package/me.nebula.ding/depiction.json
+SileoDepiction: https://chariz.com/api/sileo/package/me.nebula.ding/depiction.jsonx
 Header: https://cdn.chariz.cloud/sileo-banner/ding.jpg
 
 Package: me.nebula.ding
@@ -1180,7 +1180,7 @@ Tag: cydia::commercial, compatible_min::ios13.0
 Author: Nebula <tweak-support@itsnebula.net>
 Name: Ding
 Icon: https://img.chariz.cloud/icon/ding/icon@3x.png
-SileoDepiction: https://chariz.com/api/sileo/package/me.nebula.ding/depiction.json
+SileoDepiction: https://chariz.com/api/sileo/package/me.nebula.ding/depiction.jsonx
 Header: https://cdn.chariz.cloud/sileo-banner/ding.jpg
 
 Package: xyz.cypwn.bigshotsnapper3plugin
