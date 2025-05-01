@@ -1,0 +1,55 @@
+Package: com.bandarhl.bhinsta
+Architecture: iphoneos-arm
+Version: 1.0.3
+Section: Tweaks
+Maintainer: Bandar Alruwaili
+Installed-Size: 648
+Depends: mobilesubstrate
+Filename: ./debians/BHInsta.1.0.3.arm.deb
+Size: 163304
+MD5sum: 5be8c0061efc0950ce267d81c3a7f509
+SHA1: 5be8d594e32824b5b3fb50bfba1a6a40614c3942
+SHA256: d76bd544ca366953f6e4f13740d17718d8c214c9004cc5d3db89e47a08b28f22
+SHA512: 78cb1af8de2b7f278fcd6850cfa596864b458f9662aa7495b16e94e8d0c95684d8ceadaca34425b5a2f8536c3c8e91e1e8e5e2e755a877155956f50652863566
+Description: An awesome tweak for Instagram!
+Name: BHInsta
+Author: Bandar Alruwaili
+
+Package: com.bandarhl.bhinsta
+Architecture: iphoneos-arm64
+Version: 1.0.3
+Section: Tweaks
+Maintainer: Bandar Alruwaili
+Installed-Size: 648
+Depends: mobilesubstrate
+Filename: ./debians/BHInsta.1.0.3.arm64.deb
+Size: 163028
+MD5sum: 4f706f7cb21c3f4830546fd4f50346fe
+SHA1: 5399fb0034241f18f9a8d2fb20a90c2546f28bf7
+SHA256: abb6306156ba30e17d15423f1b4d914d009815caff6c1a3eb8311ec2681f1da6
+SHA512: a762b5d308c00340ed07179d4195441d46bb4ae0e6d22f6e0bf1cc93fb0576248a34ed88e6823888e2e5bc2b9784ad9d746520610185af4d7b07f0d1c659bea9
+Description: An awesome tweak for Instagram!
+Name: BHInsta
+SileoDepiction: https://raw.githubusercontent.com/Qhtx/qhtx/refs/heads/main/Othx/BHInsta.json
+Icon: https://i.imgur.com/lg6zKtD.jpeg
+Author: Bandar Alruwaili
+
+Package: com.bandarhl.bhinsta
+Architecture: iphoneos-arm64e
+Version: 1.0.3
+Section: Tweaks
+Maintainer: Bandar Alruwaili
+Installed-Size: 648
+Pre-Depends: rootless-compat(>= 0.9)
+Depends: mobilesubstrate
+Filename: ./debians/BHInsta.1.0.3.arm64e.deb
+Size: 160708
+MD5sum: 6bb22714e38e6cdefab99ba369a6a20d
+SHA1: a12b05f40b2e8f4234261f52bd47dbfbbe404045
+SHA256: 9861eb070304666e16bc9c4478b64831699da5449f00391028d36d0722acdbcb
+SHA512: 9cea0774df1d3ffc103639e804c9740255698dc60e4981d908ed30cd685409cc78ea0faebdcd34e6af325bd7dbfec9f4d35072e62a85977b2f95e5e7d23b3e14
+Description: An awesome tweak for Instagram!
+Name: BHInsta
+Icon: https://i.imgur.com/lg6zKtD.jpeg
+Author: Bandar Alruwaili
+
