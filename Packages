@@ -730,26 +730,6 @@ Name: unlock apps
 Author: adry
 Icon: https://i.imgur.com/m2Bn0u4.jpeg
 
-Package: ellekit
-Architecture: iphoneos-arm64e
-Version: 1.1.4
-Priority: optional
-Section: Tweak Injection
-Maintainer: Dhinak G <dhinak@dhinak.net>
-Provides: mobilesubstrate (= 99), org.coolstar.libhooker (= 1.6.9), libkrw0-dopamine
-Conflicts: com.ex.substitute, org.coolstar.libhooker, science.xnu.substitute, mobilesubstrate, com.saurik.substrate.safemode
-Replaces: com.ex.libsubstitute, org.coolstar.libhooker, mobilesubstrate
-Filename: ./debs/ellekit_1.1.4_iphoneos-arm64e.deb
-Size: 193288
-MD5sum: 366bb8897ee16111f008f03230ca6fb6
-SHA1: cf442daf372c5f5baf9d1da506e512f56b397e85
-SHA256: e31aea7f83d30a24dd5c12649665b85744689e55b5c8e8360d5a6ed4b2249faa
-SHA512: a6c6b194d65e0a2743f52252bbcd6aacc7840e0f12e7c06bbdff6e17def4a23897141181c53fd0674a34025a74aa87109651a9dbf0c605f0df817dd01d05a36e
-Description: ElleKit tweak injection libraries and loader
-Name: ElleKit
-Author: Evelyn
-Icon: https://ellekit.space/logos/logo.png
-
 Package: me.nebula.ding
 Architecture: iphoneos-arm64
 Version: 1.1.0
