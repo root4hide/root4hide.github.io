@@ -294,45 +294,6 @@ Name: Hammel Hack | إدارة الملفات
 Author: Haidar_Phantom
 Icon: https://i.imgur.com/5SQvqwm.jpeg
 
-Package: com.bandarhl.bhtwitter
-Architecture: iphoneos-arm64
-Version: 4.3-6+debug
-Section: Tweaks
-Maintainer: Bandar Alruwaili
-Installed-Size: 23824
-Depends: mobilesubstrate, ws.hbang.common
-Filename: ./debs/com.bandarhl.bhtwitter_4.3-6+debug_iphoneos-arm64.deb
-Size: 10793120
-MD5sum: 03f4a8d5e65a514726eb6759648f21e6
-SHA1: 07ff82fd84ba8814f52de387621eea4c7ec6587b
-SHA256: ad573820486b3132fa59252cd3d5575874290d06a455e3688e4fd8554146bbb1
-SHA512: 7ee87030afec39dad0d739a0901b5cd17c4e9a57e04438109e791a810182ad913d824537fa977a02f9627bc7615cfefae5e11420d0b81fadcc0ccc5042a7e0fc
-Description: Awesome tweak for Twitter
-Name: BHTwitter
-Author: Bandar Alruwaili
-Icon: https://arm64.pro/a/BHTwitter/x.png
-Sileodepiction: https://arm64.pro/a/BHTwitter/a.json
-
-Package: com.bandarhl.bhtwitter
-Architecture: iphoneos-arm64e
-Version: 4.3-6+debug
-Section: Tweaks
-Maintainer: Bandar Alruwaili
-Installed-Size: 23824
-Pre-Depends: rootless-compat(>= 0.9)
-Depends: mobilesubstrate, ws.hbang.common
-Filename: ./debs/com.bandarhl.bhtwitter_4.3-6+debug_iphoneos-arm64e.deb
-Size: 10676080
-MD5sum: 9e8f915a85ceba9af4dda5b70ae299dc
-SHA1: e5d60a5a41ef770cb33b12ec4b3b3db6d0ade7e8
-SHA256: 0f9875bfb8a80ce46f30d20244fcf913755f827431360accc9f43900b7bb21f4
-SHA512: b9f2abafeb7308cd243ca137673e603dfaa31b3f641e01a15f577e8fdb219720734c0d9dde2c35aed14ad7487607592f866ab09e9c6f1283d26bdce658b5e889
-Description: Awesome tweak for Twitter
-Name: BHTwitter
-Author: Bandar Alruwaili
-Icon: https://arm64.pro/a/BHTwitter/x.png
-Sileodepiction: https://arm64.pro/a/BHTwitter/a.json
-
 Package: com.blatant.aicoversongsmusicgeneratorpatch
 Architecture: iphoneos-arm
 Version: 1.3.3.7
@@ -1755,6 +1716,24 @@ Description: portalpremium
 Name: Portal Patch
 Author: blatant <blatantzzz@protonmail.com>
 
+Package: com.blatant.portalpatch
+Architecture: iphoneos-arm64e
+Version: 1.3.3.7
+Section: Tweaks
+Maintainer: blatant <blatantzzz@protonmail.com>
+Installed-Size: 420
+Pre-Depends: rootless-compat(>= 0.9)
+Depends: mobilesubstrate
+Filename: ./debs/com.blatant.portalpatch_1.3.3.7_iphoneos-arm64e.deb
+Size: 98554
+MD5sum: 1897db809731c056a1fdd4c0c73fbde8
+SHA1: 5632654f79601fca536e5a753b67b3c94d8f428b
+SHA256: 75413f13851eb5bf7fe608461c545f21d9ebe27e935a43fad60d7cf1bc57a9c2
+SHA512: 32150fa8670c498e618bf03549961773792d21ef21ddb665d59939c5eb94f02a505dcb5189ed2df59dd2c2dcbe249fa1916708bbfeaa1de8b132f1bda9992ec4
+Description: portalpremium
+Name: Portal Patch
+Author: blatant <blatantzzz@protonmail.com>
+
 Package: com.blatant.rashaqa
 Architecture: iphoneos-arm
 Version: 1.0
@@ -2677,47 +2656,6 @@ Name: Watusi 3 for WhatsApp
 Author: Fouad Raheb <support@fouadraheb.com>
 Icon: https://i.imgur.com/uZB1iIP.jpeg
 
-Package: com.icraze.rune
-Architecture: iphoneos-arm64
-Version: 1.3.1
-Section: Tweaks
-Maintainer: iCraze
-Installed-Size: 6644
-Depends: mobilesubstrate (>= 0.9.5000), preferenceloader, firmware (>= 14.0)
-Filename: ./debs/com.icraze.rune_1.3.1_iphoneos-arm64.deb
-Size: 2623908
-MD5sum: 52979456ad38615e69d33fb9817de416
-SHA1: 6f1d8234e07a8dbd4812db3c7fa83cda45c5b199
-SHA256: cfa5360aee2852ebdf64d79067fbf362f2e4c638911d28ffa73fddc0b9418f2c
-SHA512: 3e82e9f7bf217c1e2a19ab65d98da5878cd0aaf35122ffb7b11a45deea52d33b8c89df1dd66720812dabfa83b6dff2c3a84bdbfa993e316d971fa358c46056d4
-Description: Control at your fingertips
-Name: Rune
-Author: iCraze
-Depiction: https://havoc.app/depiction/rune
-SileoDepiction: https://havoc.app/package/rune/depiction.json
-Icon: https://media.havoc.app/65725389d4f97796e0c52850
-
-Package: com.icraze.rune
-Architecture: iphoneos-arm64e
-Version: 1.3.1
-Section: Tweaks
-Maintainer: iCraze
-Installed-Size: 6644
-Pre-Depends: rootless-compat(>= 0.9)
-Depends: mobilesubstrate (>= 0.9.5000), preferenceloader, firmware (>= 14.0)
-Filename: ./debs/com.icraze.rune_1.3.1_iphoneos-arm64e.deb
-Size: 5247130
-MD5sum: 879e195b1eba781c052543180e3fee08
-SHA1: 28e1b732b68808db179519cea724cef6b0af20cf
-SHA256: 735f30c06e670c1603020ad75546079897a8ae91f44069a466e940dcee5f8e5d
-SHA512: 85b5d543cbe1707d851d0e681f00bcd373dc4e6b17584d2bad8230071464ed0ebdc0ef9fb6c12ab6a96749c8ecb0dd6b7cb4e9b1a9508eb55555af026aa1a705
-Description: Control at your fingertips
-Name: Rune
-Author: iCraze
-Depiction: https://havoc.app/depiction/rune
-SileoDepiction: https://havoc.app/package/rune/depiction.json
-Icon: https://media.havoc.app/65725389d4f97796e0c52850
-
 Package: com.idevicelover.smartbatteryios15
 Architecture: iphoneos-arm64
 Version: 1.6
@@ -3119,6 +3057,26 @@ Name: unlock apps
 Author: adry
 Icon: https://i.imgur.com/m2Bn0u4.jpeg
 
+Package: ellekit
+Architecture: iphoneos-arm64e
+Version: 1.1.4
+Priority: optional
+Section: Tweak Injection
+Maintainer: Dhinak G <dhinak@dhinak.net>
+Provides: mobilesubstrate (= 99), org.coolstar.libhooker (= 1.6.9), libkrw0-dopamine
+Conflicts: com.ex.substitute, org.coolstar.libhooker, science.xnu.substitute, mobilesubstrate, com.saurik.substrate.safemode
+Replaces: com.ex.libsubstitute, org.coolstar.libhooker, mobilesubstrate
+Filename: ./debs/ellekit_1.1.4_iphoneos-arm64e.deb
+Size: 193288
+MD5sum: 366bb8897ee16111f008f03230ca6fb6
+SHA1: cf442daf372c5f5baf9d1da506e512f56b397e85
+SHA256: e31aea7f83d30a24dd5c12649665b85744689e55b5c8e8360d5a6ed4b2249faa
+SHA512: a6c6b194d65e0a2743f52252bbcd6aacc7840e0f12e7c06bbdff6e17def4a23897141181c53fd0674a34025a74aa87109651a9dbf0c605f0df817dd01d05a36e
+Description: ElleKit tweak injection libraries and loader
+Name: ElleKit
+Author: Evelyn
+Icon: https://ellekit.space/logos/logo.png
+
 Package: me.nebula.ding
 Architecture: iphoneos-arm64
 Version: 1.1.0
@@ -3158,84 +3116,46 @@ Name: Ding
 Icon: https://img.chariz.cloud/icon/ding/icon@3x.png
 SileoDepiction: https://chariz.com/api/sileo/package/me.nebula.ding/depiction.json
 
-Package: xyz.cypwn.bigshotsnapper3plugin
+Package: xyz.cypwn.paibloxx
 Architecture: iphoneos-arm64e
-Version: 1.1
-Section: Tweaks
-Maintainer: CyPwn
-Installed-Size: 532
-Pre-Depends: rootless-compat(>= 0.9)
-Depends: mobilesubstrate, firmware(>=14.0), com.opa334.ccsupport
-Filename: ./debs/xyz.cypwn.bigshotsnapper3plugin_1.1_iphoneos-arm64e.deb
-Size: 24616
-MD5sum: b58bed5b781edcf181b854f2d0a43825
-SHA1: 710414ff93f933fa6ddbe2b3edba3bd16aaffca9
-SHA256: f312be2f962500223be50ad6e8804e3576d8218cbe03a94208f9fe9675647c92
-SHA512: de9220c4cde40f9c1fe75475fa93d977023be9e220049a76e0d523c15b5fbc32473f9492c739621fc0acedca0cf134cc50a241ddf3ec6b7d00069c585486892b
-Description: BigShot CC module for iOS 14/15/16 and Snapper 3 plugin. Snapper 3 is NOT required to use this. It can be used as a standalone CC module.
-Depiction: https://repo.cypwn.xyz/depiction/1537
-SileoDepiction: https://repo.cypwn.xyz/sileo_depiction/1537
-Name: BigShot for Snapper 3 and CCSupport
-Author: Jonathan Winger-lang
-Icon: https://repo.cypwn.xyz/assets/repo/Featured/bigshotsnapper3.png
-
-Package: xyz.cypwn.bookmarkicons
-Architecture: iphoneos-arm64e
-Version: 1.0-1
+Version: 1.1.2
 Section: Tweaks
 Maintainer: CyPwn
 Pre-Depends: rootless-compat(>= 0.9)
-Depends: mobilesubstrate
-Filename: ./debs/xyz.cypwn.bookmarkicons_1.0-1_iphoneos-arm64e.deb
-Size: 22794
-MD5sum: 30ce3dc0a4e46337df7d28d0ceb5eb94
-SHA1: fc870d15440c148d255eb888713e2a018d9cc99d
-SHA256: 0169104db47f8341cefa2d5f09b21231275fb5e667a45e5ad7a3df4f1d4e71d7
-SHA512: 15325146367aca14dbbb0275e3de6378e459063e7a16c15b08c1040e965e2c9cb0635ad514c3d7b5d97261825daa5e57682ce63dbfe7e92e9d7bf8d330a83dc3
-Description: Set custom icons for Safari bookmarks.
-Depiction: https://repo.cypwn.xyz/depiction/3138
-SileoDepiction: https://repo.cypwn.xyz/sileo_depiction/3138
-Icon: https://repo.cypwn.xyz/packages/BookmarkIcons-Rootless/icon.png
-Name: BookmarkIcons
-Author: shiftcmdk
+Depends: firmware (>= 12.0), com.bingner.plutil | plutil, ws.hbang.common (>= 1.17)
+Conflicts: net.myxxdev.mybloxx12, net.myxxdev.mybloxx13, net.myxxdev.mybloxx14
+Filename: ./debs/xyz.cypwn.paibloxx_1.1.2_iphoneos-arm64e.deb
+Size: 93304
+MD5sum: b0cb7418c1fa00db1a56b8e0cc849973
+SHA1: afde544b535d8ca71efbd8d5698db47dde6a3b25
+SHA256: 9f3630f23476de705200bb26a8cb669c5ba22e29469bd963325540541a1a6ca3
+SHA512: 6f72f93a7e01ceaf0d9dc5b4f0c0a7741eb00b248f6266d66d112eb27f0d8b0926d1301b824b7cdff3f5da8e00ad6a26bef6ecb9665de248df8bcd17a6c59328
+Description: A safe CLI ad-blocker for iOS. Enter `pbx` in terminal to get started.
+Depiction: https://repo.cypwn.xyz/depiction/3147
+SileoDepiction: https://repo.cypwn.xyz/sileo_depiction/3147
+Icon: https://repo.cypwn.xyz/packages/PaiBloxx-Rootless/icon.png
+Name: PaiBloxx
+Author: Paisseon
 
-Package: xyz.cypwn.crackfouad
+Package: xyz.cypwn.xinam1ne
 Architecture: iphoneos-arm64e
-Version: 2.0
-Section: Cracks
+Version: 2.6-8
+Section: Utilities
 Maintainer: CyPwn
-Installed-Size: 9880
-Depends: mobilesubstrate (>= 0.9.5000)
-Conflicts: com.blatant.regramcrack (= 1.2)
-Filename: ./debs/xyz.cypwn.crackfouad_2.0_iphoneos-arm64e.deb
-Size: 1458144
-MD5sum: 643f89604e5753f9cb27f8987348fcbf
-SHA1: 564efa8a64e071a9174052a745044716e1e6ae6a
-SHA256: 71affd28506d7e08863db853ec57d32899de19337fdce060abaff2fe37970dde
-SHA512: 4ced80586f7a61af9ed106c2f050c7e345e0cb0a584f34c9281b6a7156a3e0e5eea1841fe47190f9804e54423377d589868c683dbea9bd94c845973cae12e011
-Description: Cracked By Blatant | Compatible with up to following: WatusiTools: v2.5.10; ContactSync: v1.1.14; OnlineNotify: v3.4.13; Watusi 3: v1.2.60; Stalky: v4.1.37; Regram: B23.
-Depiction: https://repo.cypwn.xyz/depiction/3104
-SileoDepiction: https://repo.cypwn.xyz/sileo_depiction/3104
-Icon: https://repo.cypwn.xyz/packages/FouadCrack/icon.png
-Name: Fouad Crack
-Author: blatant
-
-Package: xyz.cypwn.violyn
-Architecture: iphoneos-arm64e
-Version: 1.4.2
-Section: Applications
-Maintainer: CyPwn
-Depends: mobilesubstrate
-Filename: ./debs/xyz.cypwn.violyn_1.4.2_iphoneos-arm64e.deb
-Size: 707792
-MD5sum: 9713715c5c63de6e3d51820b25a0bc2c
-SHA1: 24ab0c62ded0f140c86624077597dfe557b580a3
-SHA256: c9f51127b5c67ee553570d030e356ef9bfdf1622349ffc8337bc03767fb13232
-SHA512: b796df0d84efb6e481457c7eb6a00341db76201ac9a30b676b343c60eeeb8e869cb67cf2a043853eb849bd9045f1b8a149e0ce00cd883bdb7782e4086f089998
-Description: Search and Download from CyDown
-Depiction: https://repo.cypwn.xyz/depiction/2895
-SileoDepiction: https://repo.cypwn.xyz/sileo_depiction/2895
-Icon: https://repo.cypwn.xyz/packages/Violyn-Rootless/icon.png
-Name: Violyn
-Author: Paisseon, Zyki
+Provides: emt.paisseon.xinamine (= 99)
+Pre-Depends: rootless-compat(>= 0.9)
+Depends: mobilesubstrate, firmware (>= 15.0), gawk, gzip, file, odcctools, ldid, plutil, com.tigisoftware.filza64bit (>= 4.0) | com.tigisoftware.filza (>= 4.0), cy+cpu.arm64v8 | oldabi-xina | oldabi
+Replaces: emt.paisseon.xinamine
+Filename: ./debs/xyz.cypwn.xinam1ne_2.6-8_iphoneos-arm64e.deb
+Size: 79468
+MD5sum: 0bbc1af36b30457e4b2361c07d53db35
+SHA1: 98d4f3d6246cf85a0bf2a081b46e97c9166d615f
+SHA256: 3d643584814e6e9793e20dd2344bf32cd9ce2c1e3da23ff2b48af687eb23363c
+SHA512: 28272d2db5908076ec29ff467d067b237981c3991941fd8e1eb3cd5c9cd40cd13433881efc5b3dea1c04c4dd12443090df8c0ec7fa242c56ee0e5158b190af09
+Description: Xinamine Official All-in-One bundle. Convert rootful tweaks to rootless (and rootless to rootful) with ease using the Xinam1nePatcher in Filza or use the included Xinaf1re app.
+Depiction: https://repo.cypwn.xyz/depiction/2816
+SileoDepiction: https://repo.cypwn.xyz/sileo_depiction/2816
+Icon: https://repo.cypwn.xyz/packages/Xinam1neAIO-Rootless/icon.png
+Name: Xinam1ne AIO
+Author: Paisseon, Sudo, NoW4U2Kid, Kixrd
 
