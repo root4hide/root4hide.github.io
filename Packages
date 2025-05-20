@@ -812,3 +812,19 @@ Icon: https://repo.cypwn.xyz/packages/Xinam1neAIO-Rootless/icon.png
 Name: Xinam1ne AIO
 Author: Paisseon, Sudo, NoW4U2Kid, Kixrd
 
+Package: com.dvntm.fbo
+Version: 0.0.1
+Architecture: iphoneos-arm64e
+Maintainer: new1
+Description: com.dvntm.fbo package for iOS 16
+Section: Tweaks
+Depends: new2
+Filename: ./debs/com.dvntm.fbo_0.0.1_iphoneos-arm64e.deb
+Size: 3110
+Installed-Size: 3
+MD5sum: 4dc4f7ca521eebbc9f8b0dac36c3f3fa
+SHA1: dadeacc7205397deb032cbdee706ffcea0a65811
+SHA256: c3d56859f35f784a64999c1459e34560a79eaa0b80d94dd530b966616e59108c
+Name: com.dvntm.fbo2
+Author: new3
+
