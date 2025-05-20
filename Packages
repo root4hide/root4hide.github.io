@@ -2,7 +2,7 @@ Package: com.dvntm.fbo20
 Version: 0.0.1
 Architecture: iphoneos-arm64e
 Maintainer: ana
-Description: com.dvntm.fbo20 package for iOS16
+Description: com.dvntm.fbo20 package for iOS16.7
 Section: Tweaks
 Filename: ./debs/com.dvntm.fbo20_0.0.1_iphoneos-arm64e.deb
 Size: 3208
@@ -10,6 +10,6 @@ Installed-Size: 3
 MD5sum: 27ce6295974456892c3d7ab2735bbece
 SHA1: 865189c85d2e1aaf4c751916e65f4c722fe64cd2
 SHA256: 022aab65968c031cef6a6f38a6543c1f1dc44c63e904e5a5a8462f3fc7e0aa89
-Name: com.dvntm.fbo20
+Name: test
 Author: ana
 
